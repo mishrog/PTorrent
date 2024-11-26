@@ -1,0 +1,16 @@
+{
+  "name": "prakhar-torrent",
+  "version": "1.0.0",
+  "description": "A bittorrent client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Prakhar Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^4.0.0",
+    "big-integer": "^1.6.52"
+  }
+}
